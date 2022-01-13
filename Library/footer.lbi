@@ -1,0 +1,31 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><footer class="footer">
+  <div class="biglogo"><a href="../index.html"><img src="../images/biglogo.png" alt=""/></a></div> 
+ <div class="container">
+   <div class="footer-item">
+      <h4>SHOOPING</h4>
+	     <nav class="nav2">
+	         <a href="../Portfolio_4.html"> <i class="fas fa-angle-right"></i> 作品集</a><br>
+
+			 <a href="../price.html"><i class="fas fa-angle-right"></i> 價格表</a> <br>
+
+			 <a href="../tools.html"> <i class="fas fa-angle-right"></i> 用具列表</a><br>
+</nav>
+	   
+    </div>
+   <div class="footer-item">
+	 	 <h4>COMPANY</h4>
+	   <nav class="nav2">
+	   <a href="../About us.html"> <i class="fas fa-angle-right"></i> 關於我們</a><br>
+
+	   <a href="../Q&A.html"> <i class="fas fa-angle-right"></i> 常見Q&A</a><br>
+ </nav>
+    </div>
+   <div class="footer-item">
+	 <h4>INFORMATION</h4>
+        ．預約時間:僅開放下午時段 (預約請私訊IG小盒子)<br>
+        ．IG:annva.nails<br>
+        ．地址:詳細地址在預約成功後會告知<br>
+
+    </div>
+  </div>
+</footer>
